@@ -23,16 +23,15 @@ AI is the "Nervous System" of NexaGuard. We use Gemini to:
 
 ### Proof of Google AI Usage
 You can find the structural proof and logs in the `/proof` folder.
-- [AI Proof (Screenshots)](#)
+- [AI Proof (Screenshots)](./proof/)
 
 ### Screenshots
-Capture your project highlights and add links below:
-- **Screenshot1**: [Link to Dashboard View]
-- **Screenshot2**: [Link to Pictorial Topology View]
+- **Screenshot1**: ![Landing Page](./proof/landing.png)
+- **Screenshot2**: ![Defender View](./proof/defender.png)
 
 ### Demo Video
 Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes). 
-[Watch Demo](#)
+[Watch Demo](https://drive.google.com/file/d/1JAP2ChcNTQNSsfMUfUNc3e5nNEJJSOXQ/view?usp=drivesdk)
 
 ### Installation Steps
 
